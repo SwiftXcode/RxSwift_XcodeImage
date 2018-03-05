@@ -14,10 +14,16 @@ Check the main project for details: [SwiftXcode](https://SwiftXcode.github.io).
 
 ### Install RxSwift Image
 
+TODO: formulate this:
+
 ```shell
 brew install swiftxcode/swiftxcode/swift-xcode-rxswift
 swift xcode link-templates # <-- important!
 ```
+
+You can install the image manually, but please note that for now the
+image will be for macOS, while the template is for iOS :-) The latter works
+fine though :-)
 
 ### Who
 
